@@ -19,7 +19,7 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 // } )
 
 
-//------------------------for each loop---------------------
+//------------------------------for each loop-----------------------------------
 const myCoding = [
     {
         languageName: "javascript",
